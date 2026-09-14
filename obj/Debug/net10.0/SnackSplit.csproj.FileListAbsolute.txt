@@ -1,0 +1,14 @@
+C:\Users\cestr\Desktop\Lectures\SnackSplit\bin\Debug\net10.0\SnackSplit.exe
+C:\Users\cestr\Desktop\Lectures\SnackSplit\bin\Debug\net10.0\SnackSplit.deps.json
+C:\Users\cestr\Desktop\Lectures\SnackSplit\bin\Debug\net10.0\SnackSplit.runtimeconfig.json
+C:\Users\cestr\Desktop\Lectures\SnackSplit\bin\Debug\net10.0\SnackSplit.dll
+C:\Users\cestr\Desktop\Lectures\SnackSplit\bin\Debug\net10.0\SnackSplit.pdb
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\SnackSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\SnackSplit.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\SnackSplit.AssemblyInfo.cs
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\SnackSplit.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\SnackSplit.dll
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\refint\SnackSplit.dll
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\SnackSplit.pdb
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\SnackSplit.genruntimeconfig.cache
+C:\Users\cestr\Desktop\Lectures\SnackSplit\obj\Debug\net10.0\ref\SnackSplit.dll
