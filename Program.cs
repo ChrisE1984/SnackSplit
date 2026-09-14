@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Welcome to Snacks Split");
+//THis is the Sncak Split program, and it hopefully works
+
+Console.WriteLine("Welcome to Snacks Split");
 
 Console.Write("How many gummy bears? ");
 int gummyBears = Convert.ToInt32(Console.ReadLine());
